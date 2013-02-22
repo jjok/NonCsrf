@@ -30,6 +30,7 @@ use DateTime;
  * A CSRF token.
  * @package jjok\NonCsrf
  * @author Jonathan Jefferies (jjok)
+ * @version 1.0.0
  */
 class Token {
 	
