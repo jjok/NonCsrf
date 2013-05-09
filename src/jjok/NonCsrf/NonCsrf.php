@@ -75,7 +75,7 @@ class NonCsrf {
 	}
 
 	/**
-	 * Check to  if the given token is the same as the stored token, and that
+	 * Check if the given token is the same as the stored token, and that
 	 * the stored token is still valid.
 	 * @param Token $token The token to check.
 	 * @return boolean
