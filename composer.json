@@ -1,6 +1,6 @@
 {
 	"name": "jjok/non-csrf",
-	"description": "",
+	"description": "Basic anti-cross-site request forgery (CSRF) measures.",
 	"license": "MIT",
 	"homepage": "https://github.com/jjok/NonCsrf",
 	"authors": [{
